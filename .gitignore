@@ -1,0 +1,27 @@
+.idea
+.vscode
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn
+
+# typescript
+/build
+/dist
+*.tsbuildinfo
+
+# IDEs and editors
+/.idea
+/.vscode
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# dotenv environment variables file
+.env
+
+# yarn integrity file
+.yarn-integrity
