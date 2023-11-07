@@ -6,6 +6,7 @@
 /.pnp
 .pnp.js
 .yarn
+!.yarn/releases
 
 # typescript
 /build
