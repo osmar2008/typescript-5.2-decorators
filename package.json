@@ -1,0 +1,12 @@
+{
+  "packageManager": "yarn@4.0.1",
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.0-dev.20231102"
+  },
+  "dependencies": {
+    "reflect-metadata": "^0.1.13",
+    "ts-pattern": "^5.0.5"
+  }
+}
